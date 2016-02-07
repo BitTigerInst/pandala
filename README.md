@@ -11,7 +11,8 @@ Plan
 * __[2016/02/01 - 2016/02/05]__ Team Development, Project Selection, Plan Discussion, and Proposal Draft Writing
 * __[2016/02/06 - 2016/02/12]__ Crawler Study and Implementation, Document Writing 
 * __[2016/02/13 - 2016/02/19]__ Recommendation Algorithm Research and Implementation
-* __[2016/02/20 - 2016/02/26]__ User Manual Writing and Video Presentation Making
+* __[2016/02/20 - 2016/02/26]__ Website Implementation
+* __[2016/02/27 - 2016/03/04]__ User Manual Writing and Video Presentation Making
 
 _Details of each schedule and task will be added later._
 
