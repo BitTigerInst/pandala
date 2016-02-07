@@ -3,16 +3,10 @@
 Description
 -----------
 
-Inspired by [Project Ara](http://www.projectara.com/), AraChat aims to develop a platform/ library for creating highly modular chat applications.
-
-No matter you'd like to assemble your own [WeChat](http://www.wechat.com/en/), or cause the next surprise as [Red Envelope Game with Moment Photos](https://walkthechat.com/pay-to-see-wechat-moment-photos/) did, AraChat will facilitate the process of developing your own chat application with minimalistic and extensible chat modules.
-
-Our ultimate goal is to save your time on prototyping and have you have more funs on creating your own Wechat by making chat application creation as easy and simply as just clicking, dragging and assembling modules on a website.
+This is a project about Designing and Implementing App Store.
 
 Plan
 ----
-
-Based on our experiences on web development and descriptions metioned above, we take _Feb, 2016_ as the __1st stage__ with the __primary__ goal of __prototyping__ our own chat application following the [Development Guildlines](https://github.com/BitTigerNY/AraChat/edit/master/README.md#Development Guildlines) metioned below. Here're some tentative schedules.
 
 * __[2016/02/01 - 2016/02/05]__ Team Development, Project Selection, Plan Discussion, and Proposal Draft Writing
 * __[2016/02/06 - 2016/02/12]__ Crawler Study and Implementation, Document Writing 
